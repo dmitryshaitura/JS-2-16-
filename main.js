@@ -35,7 +35,7 @@ console.log(userObj);
  * userObj.fullName() → 'Имя Фамилия'.
  */
 
-console.log(userObj.fullName);
+console.log(userObj.fullName());
 
 
 /*
